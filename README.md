@@ -1,4 +1,4 @@
-# Hi tere, I'm Adrian👋
+# Hi there, I'm Adrian👋
 ## I'm Front-end Web Developer💻, aspiring Back-End developer💻, and Godot hobbyst⚙️
 I love th entire process of developing websites, and creating simple games using Godot
 
@@ -55,9 +55,17 @@ I love th entire process of developing websites, and creating simple games using
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qwerex56&repo=StrawKayet-Client" />
-</a><br/>
+</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qwerex56&repo=Signup-form" />
+</a>
+
+## Projects that i take part in
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikolajszymczuk1&repo=PathFinder" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikolajszymczuk1&repo=SuperFunnyRaceGame" />
 </a>
 
 ## Github Stats
